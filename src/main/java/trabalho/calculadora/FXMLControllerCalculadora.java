@@ -12,7 +12,7 @@ import javafx.scene.text.Text;
 
 /**
  *
- * @author Dawson Paiva Lima 201719070016
+ * @author Dawson Paiva Lima
  */
 public class FXMLControllerCalculadora implements Initializable {
 

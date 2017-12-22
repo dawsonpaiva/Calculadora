@@ -7,7 +7,7 @@ package trabalho.calculadora;
 
 /**
  *
- * @author Dawson Paiva Lima 201719070016
+ * @author Dawson Paiva Lima
  */
 public class OperacaoAritmetica {
 
